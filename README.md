@@ -1,2 +1,10 @@
-# don't forget intall npm
-install npm 
+# Notes
+## don't forget install node modules
+```
+install npm
+```
+## remember to make the build 
+```
+npm run build
+```
+ 
